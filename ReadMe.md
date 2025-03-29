@@ -1,4 +1,4 @@
-<h2 align="center">## 👋 Hello! My name is Victor, welcome to my profile!  .</h2>
+<h2 align="center"> 👋 Hello! My name is Victor, welcome to my profile!  .</h2>
 
 ###
 - 🎓 **Graduated in Computer Networks** and currently pursuing a degree in **Software Engineering**.  
