@@ -2,8 +2,11 @@
 
 ###
 <h7>  ○ 📈 I love discovering new knowledge! </h7>
+
 <h7>  ○ 📚 Currently studying JavaScript, HTML, CSS, Python, MySql, Git and Github in preparation for a career transition. </h7>
+
 <h7>  ○ ❤️ A special love for project management. </h7>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorsouza95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
