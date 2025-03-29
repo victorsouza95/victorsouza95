@@ -6,8 +6,10 @@
 - 📚 Currently studying **JavaScript, HTML, CSS, Python, MySQL, Git, and GitHub** in preparation for a career transition.  
 - ❤️ Passionate about **project management** and team collaboration.  
 
-
 🚀 Always learning and looking for new challenges!  
+
+📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/victor-souza-881164187/)  
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorsouza95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
