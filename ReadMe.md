@@ -1,9 +1,11 @@
 <h2 align="center">## 👋 Hello! My name is Victor, welcome to my profile!  .</h2>
 
 ###
+- 🎓 **Graduated in Computer Networks** and currently pursuing a degree in **Software Engineering**.  
 - 📈 I love discovering new knowledge and improving my skills.  
 - 📚 Currently studying **JavaScript, HTML, CSS, Python, MySQL, Git, and GitHub** in preparation for a career transition.  
 - ❤️ Passionate about **project management** and team collaboration.  
+
 
 🚀 Always learning and looking for new challenges!  
 
